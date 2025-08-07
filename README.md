@@ -27,8 +27,9 @@ I'm a **Full Stack Developer** with a strong passion for building scalable, clea
 ---
 
 ### 📈 Currently Working On
-- Building interactive voice-based applications using **Twilio**, **Google Cloud Speech-to-Text & Text-to-Speech**
+
 - Learning **CI/CD pipelines** and **advanced testing strategies**
+- Learning **Docker** and **AWS**
 
 ---
 
